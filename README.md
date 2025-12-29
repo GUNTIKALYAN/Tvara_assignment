@@ -9,14 +9,14 @@
  - Task C — Vectorization with HuggingFace + FAISS similarity search
 
 
- - Task A - Code
+ # Task A - Code
  - Used the approach of slow and fast pointer for the logic
 
- - Task B  - Gemini API Integration: Simple chatbot API
+ # Task B  - Gemini API Integration: Simple chatbot API
  - End point
  - POST /chat
 
- - Task C
+ # Task C
  - Loads HuggingFace embedding model
  - Creates FAISS vector index
  - Runs similarity search
