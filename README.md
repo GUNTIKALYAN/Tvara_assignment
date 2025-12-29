@@ -21,4 +21,3 @@
  - Creates FAISS vector index
  - Runs similarity search
  - Returns top relevant sentence(s)
- - Chunking not needed because sentences are already short
